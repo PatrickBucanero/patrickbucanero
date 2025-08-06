@@ -19,7 +19,7 @@ Sou apaixonado por tecnologia, automações e desenvolvimento de sistemas que ge
 Atuo com responsabilidade, criatividade e proatividade — sempre buscando evoluir e aprender com cada projeto.
 
 🧠 Tenho facilidade em me adaptar a novos contextos, aprender rapidamente e colaborar em equipe.  
-🚀 Atualmente busco uma oportunidade como **estagiário em desenvolvimento** para aplicar e expandir meus conhecimentos.
+
 
 ---
 
