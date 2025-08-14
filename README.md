@@ -31,7 +31,7 @@ Atuo com responsabilidade, criatividade e proatividade — sempre buscando evolu
 
 ### 🧠 Back-end
 - C# | ASP.NET Core
-- Node.js | PHP
+- Node.js 
 - SQLite | SQL Server | MySQL
 
 ### ⚙️ Ferramentas & Extras
