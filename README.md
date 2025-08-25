@@ -38,7 +38,7 @@ Atuo com responsabilidade, criatividade e proatividade — sempre buscando evolu
 - Git & GitHub
 - TypeBot, n8n, Cal.com (automações e bots)
 - Figma (design)
-- Postman | Insomnia (APIs)
+- Postman  (APIs)
 
 ---
 
