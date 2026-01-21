@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Idade-19%20anos-blue" />
+  <img src="https://img.shields.io/badge/Idade-20%20anos-blue" />
   <img src="https://img.shields.io/badge/Localiza%C3%A7%C3%A3o-Santos%2C%20SP-brightgreen" />
   <img src="https://img.shields.io/badge/Curso-Sistemas%20de%20Informa%C3%A7%C3%A3o-yellow" />
   <img src="https://img.shields.io/badge/Per%C3%ADodo-5%C2%BA%20semestre-orange" />
